@@ -1,8 +1,7 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <iostream>
 
 int main()
 {
-	printf("\n Hola Mundo");
+std::cout <<"Hola Mundo\n";
 }
 
